@@ -4,4 +4,7 @@ List of Programming languages:
 3. Python
 4. Ruby
 5. Go
+6.C++
+7. C
+8.R
 
